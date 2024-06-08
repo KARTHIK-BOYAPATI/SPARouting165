@@ -1,0 +1,21 @@
+.UserInfoContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.UserInfoLogo {
+  height: 100px;
+  width: 100px;
+}
+
+.UserName {
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.UserJob {
+  font-weight: bold;
+  color: #9aa5b1;
+}

@@ -1,0 +1,13 @@
+.BlogItemTitle {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.description {
+  color: #9aa5b1;
+  font-weight: bold;
+}
